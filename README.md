@@ -13,4 +13,5 @@ It includes examples for:
 
 Read the full tutorial and explanation in the Medium article:
 
-👉 [Medium Article](https://medium.com/p/583b64012cc2/edit)
+👉 [Medium Article English]([https://medium.com/p/583b64012cc2/edit](https://medium.com/@iburakbakir/%EF%B8%8Ffrom-dev-to-production-managing-multi-cloud-infrastructure-with-terraform-cdktf-583b64012cc2))
+👉 [Medium Article Turkish]([[https://medium.com/p/583b64012cc2/edit](https://medium.com/@iburakbakir/%EF%B8%8Ffrom-dev-to-production-managing-multi-cloud-infrastructure-with-terraform-cdktf-583b64012cc2)](https://medium.com/@iburakbakir/%EF%B8%8Fgeli%C5%9Ftirmeden-%C3%BCretime-terraform-cdktf-ile-%C3%A7oklu-bulut-altyap%C4%B1s%C4%B1n%C4%B1-y%C3%B6netme-aca8f698403d))
