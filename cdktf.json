@@ -1,0 +1,11 @@
+{
+  "language": "typescript",
+  "app": "npx ts-node main.ts",
+  "projectId": "6ea113e0-f5f8-404c-9dff-5e2e41799e21",
+  "sendCrashReports": "false",
+  "terraformProviders": [
+    "huaweicloud/huaweicloud@~> 1.77"
+  ],
+  "terraformModules": [],
+  "context": {}
+}
