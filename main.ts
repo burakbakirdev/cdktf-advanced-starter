@@ -37,7 +37,7 @@ class DevEcsStack extends TerraformStack {
 
     new DevProviderStack(this, `hwc-${accountSuffix}`, environment, stackName);
 
-    new NginxEcsStack(this, `nginx-proxy-ecs-${accountSuffix}`, environment, devBaseStack.network, devBaseStack.secgr);
+    new NginxEcsStack(this, `nginx-ecs-${accountSuffix}`, environment, devBaseStack.network, devBaseStack.secgr);
   }
 }
 
