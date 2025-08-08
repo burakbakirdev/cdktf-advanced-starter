@@ -75,7 +75,7 @@ export class NetworkStack extends Construct {
     if (this.subnets.has(name)) {
       return this.subnets.get(name)!.id;
     }
-    throw new Error(`Invalid security group ${name}`);
+    throw new Error(`Invalid subnet ${name}`);
   }
 
   public getSubnetIpV4Id(name: string): string {
